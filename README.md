@@ -12,4 +12,6 @@
 - [x] GitHub
 - [ ] GitLab
 - [ ] Bitbucket
+ Виконав: Ярмоленко Анатолій
+
 
